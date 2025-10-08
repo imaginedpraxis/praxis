@@ -62,7 +62,7 @@ It is my point that identity is the cog in the machine. It is because of the con
 
 That is why even antagonizing systems can—and often do—work in tandem to craft the same identity.
 
-## Ricoeur and narrative identity (brief)
+## Ricoeur and narrative identity 
 
 At this point, it is valuable to draw on Paul Ricoeur’s notion of narrative identity, which helps explain how identity functions as the organizing mechanism within imaginary systems. Ricoeur argued that identity is not a fixed essence but a narrative construction—a way of achieving coherence by bringing together the heterogeneous elements of life into a single storyline. He distinguished between *idem-identity* (sameness and stability) and *ipse-identity* (selfhood and the capacity to act and reinterpret). Imaginaries, in this sense, depend on both—the stability of shared institutions and the openness to reinterpretation and adaptation.
 
@@ -80,7 +80,7 @@ In addition to these scholars, Ezrahi’s work on the democratic imaginaries pro
 
 Furthermore, he suggests a three-level taxonomy of these political imaginaries that, according to his view, are fundamental to postmodern political imagination. By integrating his theory into the concept of sociotechnical systems, his work can be used as a guide for the utilization of these political imaginaries. He also notes the looming danger of undermining belief in a set of regime-supporting strategies. The goal of these imaginaries, according to his analysis and in his words, is “advancing knowledge,” highlighting in this way the instrumental function that imagination has.
 
-### Ezrahi’s three levels of imagination
+### The three levels of imagination
 
 - **Reflective imagination** — representations of the past: specific moods, emotions, and narratives imposed on unaware subjects.  
 - **Fictive imagination** — fictions that may be politically transformed into causes, including cultural re-appropriations that can shape political behaviors.  
@@ -96,7 +96,7 @@ External events can even cause this effect — a strong economic crisis is possi
 
 ## Toward information architectures
 
-I aim for additional conceptual work on the concept of **Information Architectures** inside the framework of **Sociotechnical Systems**, in conjunction with identity formation, as network flows can reach targeted subpopulations and facilitate certain types of behaviors, norms, and ideas, while suppressing others.
+I aim for additional conceptual work on the concept of **Information Architectures** inside the framework of **Sociotechnical Systems**, in conjunction to identity formation, as network flows can reach targeted subpopulations and facilitate certain types of behaviors, norms, and ideas, while suppressing others, a closer examination of the affordances of the available networks as well as the interactions that happen is where the contemporary proccess of identity formation is facilitated in real time.
 
 ## A caution on identity drift
 
@@ -104,6 +104,6 @@ It would be useful to understand that these imaginaries though also mean that a 
 
 ## Closing and transition
 
-Bringing together Castoriadis’s productive imagination, Anderson’s imagined communities, Ricoeur’s narrative self, and Ezrahi’s performative fictions, we can start to see imaginaries as complex, interdependent systems. They do not simply reflect the world but actively build it. The following section will trace how these systems evolve under the pressures of technology and governance, particularly in the emergence of Nasi’s technocratic imaginary.
+Bringing together Castoriadis’s productive imagination, Anderson’s imagined communities, Ricoeur’s narrative self, and Ezrahi’s performative fictions, we can start to see imaginaries as complex, interdependent systems. They do not simply reflect the world but actively build it. The following section will trace how these systems can be unintetionally degraded as well as manipulated.
 
 
