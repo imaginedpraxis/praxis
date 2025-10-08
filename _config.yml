@@ -21,16 +21,15 @@ baseurl: /praxis
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Project Praxis
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  A repository for Great Ideas.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Learn, Adapt, Evolve.
 
 # A list of keywords for your blog
 keywords:              []
@@ -50,7 +49,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Ideas
     url:               /example/
   - title:             Documentation
     url:               /docs/
@@ -93,7 +92,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/background.png
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
