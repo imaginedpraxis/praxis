@@ -1,4 +1,12 @@
 <!-- Add HTML tags here to be included in the head. You can delete the below: -->
+<!-- Favicon + beacon -->
+<!-- Favicon + manifest (cache-busted) -->
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/icons/favicon-32x32.png?v=5' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/icons/apple-touch-icon.png?v=5' | relative_url }}">
+<link rel="shortcut icon" href="{{ '/assets/icons/favicon-32x32.png?v=5' | relative_url }}">
+<link rel="manifest" href="{{ '/assets/manifest.webmanifest?v=5' | relative_url }}">
+<meta name="x-myhead-loaded" content="yes">
+
 <link rel="dns-prefetch" href="https://assets.gumroad.com">
 <script type="module">
   const loadJS = x => new Promise(r => window.loadJS(x).addEventListener('load', r));
