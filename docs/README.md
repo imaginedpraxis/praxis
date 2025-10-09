@@ -19,4 +19,4 @@ Ultimately, the study proposes a refined framework for understanding digitally m
 ---
 
 📄 **Download the full thesis:**  
-[**Thesis on Digital Heuristics (PDF)**](/assets/docs/Thesis-on-Digital-Heuristics.pdf){:target="_blank"}
+[**Thesis on Digital Heuristics (PDF)**]({{ site.baseurl }}/assets/docs/thesis-on-digital-heuristics.pdf){:.btn .btn-outline :target="_blank"}
