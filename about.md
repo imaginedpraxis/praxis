@@ -9,159 +9,41 @@ redirect_from:
   - /download/
 ---
 
-# About
+# CodeBook - Political Communication
 
-<!--author-->
+Its obvious that Social Media has made it simple to obtain information and consequently to engage with it and often share it.
 
-## Hydejack
+So, I’ve been thinking for some time about creating a codebook of theories and techniques used in political communication that facilitate the propagation of news ,fake news and misinformation.
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
-{:.lead}
+This blog has mostly been about imaginaries—the big picture—but the actual work is in the moves.
 
-1. this list will be replaced by the toc
-{:toc .large-only}
+The intent is to compile and synthesize psychological and social science theories that make people vulnerable—or simply more receptive—to political communication, alongside practical techniques.
 
-![Screenshot](/assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
+I’ll continue to enrich this with more specific digital techniques—especially focused on social media, which is what I’m currently working on—but for now, this is it.
 
-Hydejack's cover page on a variety of screen sizes.
-{:.figcaption}
+Core theories (from Zhou & Zafarani, 2020)
+<table> <thead> <tr> <th>Category</th> <th>Subcategory</th> <th>Theory</th> <th>Phenomenon</th> </tr> </thead> <tbody> <tr><td>News-related theories</td><td></td><td>Undeutsch hypothesis</td><td>A statement based on a factual experience differs in content, style, and quality from one based on fantasy.</td></tr> <tr><td>News-related theories</td><td></td><td>Reality monitoring</td><td>Actual events are characterized by higher levels of sensory–perceptual information.</td></tr> <tr><td>News-related theories</td><td></td><td>Four-factor theory</td><td>Lies differ from truth in arousal, behavior control, emotion, and thinking.</td></tr> <tr><td>News-related theories</td><td></td><td>Information manipulation theory</td><td>Extreme information quantity often exists in deception.</td></tr>
+<tr><td>User-related theories</td><td>Social impacts</td><td>Conservatism bias</td><td>The tendency to revise one’s belief insufficiently when presented with new evidence.</td></tr>
+<tr><td>User-related theories</td><td>Social impacts</td><td>Semmelweis reflex</td><td>Individuals tend to reject new evidence because it contradicts established norms and beliefs.</td></tr>
+<tr><td>User-related theories</td><td>Social impacts</td><td>Echo chamber effect</td><td>Beliefs are amplified or reinforced by communication and repetition within a closed system.</td></tr>
+<tr><td>User-related theories</td><td>Social impacts</td><td>Attentional bias</td><td>An individual’s perception is affected by their recurring thoughts at the time.</td></tr>
+<tr><td>User-related theories</td><td>Social impacts</td><td>Validity effect</td><td>Individuals tend to believe information is correct after repeated exposures.</td></tr>
+<tr><td>User-related theories</td><td>Social impacts</td><td>Bandwagon effect</td><td>Individuals do something primarily because others are doing it.</td></tr>
+<tr><td>User-related theories</td><td>Social impacts</td><td>Normative influence theory</td><td>The influence of others leading us to conform to be liked and accepted by them.</td></tr>
+<tr><td>User-related theories</td><td>Social impacts</td><td>Social identity theory</td><td>An individual’s self-concept derives from perceived membership in a relevant social group.</td></tr>
+<tr><td>User-related theories</td><td>Social impacts</td><td>Availability cascade</td><td>Individuals adopt insights expressed by others as those insights gain popularity within their social circles.</td></tr>
 
+<tr><td>User-related theories</td><td>Self-impact</td><td>Confirmation bias</td><td>Individuals tend to trust information that confirms their preexisting beliefs or hypotheses.</td></tr>
+<tr><td>User-related theories</td><td>Self-impact</td><td>Selective exposure</td><td>Individuals prefer information that confirms their preexisting attitudes.</td></tr>
+<tr><td>User-related theories</td><td>Self-impact</td><td>Desirability bias</td><td>Individuals are inclined to accept information that pleases them.</td></tr>
+<tr><td>User-related theories</td><td>Self-impact</td><td>Illusion of asymmetric insight</td><td>Individuals perceive their knowledge to surpass that of others.</td></tr>
+<tr><td>User-related theories</td><td>Self-impact</td><td>Naïve realism</td><td>The senses provide us with direct awareness of objects as they really are.</td></tr>
+<tr><td>User-related theories</td><td>Self-impact</td><td>Overconfidence effect</td><td>A person’s subjective confidence in their judgments reliably exceeds objective accuracy.</td></tr>
 
-**Hydejack** is a boutique [Jekyll] theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
+<tr><td>User-related theories</td><td>Benefits</td><td>Prospect theory</td><td>People make decisions based on the value of losses and gains rather than final outcomes.</td></tr>
+<tr><td>User-related theories</td><td>Benefits</td><td>Contrast effect</td><td>Cognition is enhanced or diminished due to exposure to a lesser or greater stimulus in the same dimension.</td></tr>
+<tr><td>User-related theories</td><td>Benefits</td><td>Valence effect</td><td>People tend to overestimate the likelihood of good things happening rather than bad things.</td></tr>
 
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
-
-> Your complete presence on the web — A [blog], [portfolio], and [resume].
-{:.lead}
-
-
-## A Personal Site That Won't Disappear
-
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
-
-Hydejack is all static sites. _HTML_. All you need is a web server — any web server — to have a professional web presence that lasts a lifetime.
-
-
-## A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
-
-<!--posts-->
-
-
-## An Impressive Portfolio
-A portfolio that's guaranteed to be impressive — no matter what you put into it.
-
-<!--projects-->
-
-
-## A Printable Resume
-Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](/assets/Resume.pdf).
-
-[![Resume PDF](/assets/img/blog/resume.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
-
-Front and center page of a print resume generated by Hydejack.
-{:.figcaption}
-
-
-## Just Markdown
-Write all content with Markdown. __Hydejack__ gives you [additional CSS classes](docs/writing.md) to stylize your content, without losing compatibility with other Jekyll themes.
-
-
-## Just Markup
-**Hydejack** boasts a plethora of modern JavaScript, but make no mistake: It's still a _plain old web page_ at its core. It works without JavaScript and you can even view it in a text-based browser like `w3m`:
-
-![w3m Screenshot](/assets/img/blog/w3m.png){:.tail width="1920" height="1260" loading="lazy"}
-
-The Hydejack blog, as seen by the text browser `w3m`.
-{:.figcaption}
-
-
-## Syntax Highlighting
-**Hydejack** features syntax highlighting, powered by [Rouge].
-
-```html
-<!-- file: `_includes/my-body.html` -->
-<script type="module">
-  document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
-    const supportsCodeHighlights = false; // TBD!!
-  });
-</script>
-```
-
-Code blocks can have a filename and a caption.
-{:.figcaption}
-
-
-## Beautiful Math
-They say math is beautiful — and with **Hydejack**'s [math support][math] it's guaranteed to also look beautiful:
-
-$$
-\begin{aligned}
-  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
-            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
-            &= (x_1, \ldots, x_n)
-               \left(\begin{array}{ccc}
-                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
-                 \vdots          & \ddots & \vdots         \\
-                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
-               \end{array}\right)
-               \left(\begin{array}{c}
-                 y_1    \\
-                 \vdots \\
-                 y_n
-               \end{array}\right)
-\end{aligned}
-$$
-
-Hydejack uses KaTeX to efficiently render math.
-{:.figcaption}
-
-
-## Features
-
-{% include features.md %}
-
-
-## Download
-
-{% include table.md %}
-
-
-## Get It Now
-
-Use the the form below to purchase Hydejack PRO:
-
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
-
-[jekyll]: https://jekyllrb.com
-
-[blog]: /
-[portfolio]: https://hydejack.com/examples/
-[resume]: https://hydejack.com/resume/
-[download]: https://hydejack.com/download/
-[welcome]: https://hydejack.com/
-[forms]: https://hydejack.com/forms-by-example/
-
-[features]: #features
-[news]: #build-an-audience
-[syntax]: #syntax-highlighting
-[latex]: #beautiful-math
-[dark]: https://hydejack.com/blog/hydejack/2018-09-01-introducing-dark-mode/
-[search]: https://hydejack.com/#_search-input
-[grid]: https://hydejack.com/blog/hydejack/
-
-[lic]: LICENSE.md
-[pro]: licenses/PRO.md
-[docs]: docs/README.md
-[ofln]: docs/advanced.md#enabling-offline-support
-[math]: docs/writing.md#adding-math
-
-[kit]: https://github.com/hydecorp/hydejack-starter-kit/releases
-[src]: https://github.com/hydecorp/hydejack
-[gem]: https://rubygems.org/gems/jekyll-theme-hydejack
-[buy]: https://gum.co/nuOluY
-
-[gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhydejack.com%2Fdocs%2F
-[rouge]: http://rouge.jneen.net
-[katex]: https://khan.github.io/KaTeX/
-[mathjax]: https://www.mathjax.org/
+</tbody> </table>
+Propaganda techniques (from the Greek MoU study, 2014)
+<table> <thead> <tr> <th>Technique</th> <th>Description</th> </tr> </thead> <tbody> <tr><td>Lies</td><td>Deliberate construction and distribution of false information.</td></tr> <tr><td>Concealment / unilateral presentation</td><td>Concealing or presenting information unilaterally (only one side of the story).</td></tr> <tr><td>Exaggeration</td><td>Twisted presentation of positive or negative information, depending on the aims of propaganda.</td></tr> <tr><td>Invocation of fear or wish (sentiment)</td><td>Direct or covert appeals to fear or to wishful thinking, persuading through emotion rather than reasoned argument.</td></tr> <tr><td>Rhetorical forms to manage meaning</td><td>Use of rhetorical devices to manage the meaning of messages beyond reasonable content.</td></tr> </tbody> </table>

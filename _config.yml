@@ -51,9 +51,9 @@ author:
 menu:
   - title:             Ideas
     url:               /example/
-  - title:             Documentation
+  - title:             Documents - Staff
     url:               /docs/
-  - title:             About
+  - title:             CodeBooks
     url:               /about/
 
 # Add links to the footer.
