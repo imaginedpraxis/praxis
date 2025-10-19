@@ -20,7 +20,7 @@ To build toward a more systemic analysis of sociotechnical systems—and the ris
 
 ## Mapping imaginaries through disciplinary frameworks
 
-Across disciplines, substantial work has sought to trace sociotechnical systems and embed them within broader accounts of **macro-level evolution**. The field of **journalism** is especially fruitful: its *performative* dimension means imaginaries are publicly enacted and documented.
+Substantial work has sought to trace sociotechnical systems and embed them within broader accounts of **macro-level evolution**. The field of **journalism** is especially fruitful: its *performative* dimension means imaginaries are publicly enacted and documented.
 
 The digital transformation of journalism has unfolded as a sequence of **promises, anxieties, and reinventions**. From the optimism of early online news to the platformization of the 2010s and today’s fascination with AI, each phase articulated a distinct technological future for journalism.
 
@@ -61,7 +61,7 @@ This model treats imaginaries as **analyzable communicative phenomena**, enablin
 
 ## 3) Cognitive-affective dimensions: identity & feeling
 
-**Social Identity Theory (SIT)** (Tajfel; Turner) explains how group belonging shapes perception and behaviour. In journalism, technological adoption often becomes a **marker of belonging**—to *be digital* or *data-driven* signals in-group status.
+**Social Identity Theory (SIT)** (Tajfel; Turner) explains how group belonging shapes perception and behaviour. In journalism, technological adoption often becomes a **marker of belonging**—to *be digital* or *data-driven* might signal in-group status.
 
 **Feelings-as-Information** (Schwarz) complements this: people read their **affective states**—hope, fear, pride, anxiety—as cues about reality and action. Individuals often treat affect as **evidence** when evaluating technological futures.
 
@@ -77,13 +77,11 @@ By combining **narrative cognition**, **public-communication analysis**, and **c
 
 ## From journalism to AI (and back to us)
 
-In Part I mapped what imaginaries are and this post sketched how to trace them, here’s where the lens turns outward. I’m starting with journalism because it performs its imaginaries in public—on the record, in headlines and workflows. But the same machinery is already shaping how we talk about **AI**.
+In Part I mapped what imaginaries are and this post sketched how to trace them, here’s where the lens turns outward. I’m starting with journalism because it performs its imaginaries in public—on the record, in headlines and workflows. But it is the same machinery that is already shaping how we talk about **AI**.
 
 Think of it this way: stories move through networks, recruit identities, and lean on shortcuts. Hope, fear, authority—these are the engines that facilitate how fast a storyline travels. In debates about AI, those engines are loud: miracle saves vs. existential threats, experts invoked, everyone-is-doing-it momentum. None of this is “just rhetoric.” It’s how imaginaries get built and stabilized.
 
 A quick referance to Anderson’s *imagined communities*: most of us will never meet, yet we feel part of the same “we” because we share media, symbols, and reference points. AI talk works the same—memes, policy slogans, success stories. Shared stories create a sense of belonging long before the tech is evenly distributed.
 
-So, in the next pieces, I’ll use the same simple toolkit I outlined here—but lightly:
-- **Wide reading** to spot recurring storylines and the cues they ride on (fear flashes, expert appeals, bandwagon vibes).  
-- **Close reading** of a few moments where a storyline flipped or was “hijacked,” asking who pushed it, where it traveled, and why it stuck.
+
 
